@@ -1,0 +1,2 @@
+Hi guys
+Git revert commad used for removing wrong commit also.
